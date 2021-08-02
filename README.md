@@ -70,4 +70,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=FalconHex">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/FalconHex?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/FalconHex?tab=followers"><img src="https://img.shields.io/github/followers/FalconHex?label=Followers&style=social" alt="GitHub Badge"></a>
