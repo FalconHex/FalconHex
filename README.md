@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/Pa5FzYt.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Joyal <p style="font-size:18px"> aka FalconHex</p></h1>
-<h3 align="center">I'm a passionate about Problem Solving and Web Development.</h3>
+<h3 align="center">I'm passionate about Problem Solving and Web Development.</h3>
 
 
 ## 🙋‍♂️ About Me
