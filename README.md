@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m currently doing  **B.Tech Cse (3rd)** from Sharda University
+- 👨‍🎓 I’m currently doing  **B.Tech Cse (4th)** from Sharda University
 
 - 🌱 Currently learning **Data Structures and Algorithms.**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **joyal.palackel19@gmail.com**
 
-- ⚡ Fun fact **I have an intrest in Graphic Designing too.**
+- ⚡ Fun fact **I have an interest in Graphic Designing too.**
 
 ## 🚀 Languages and Tools:
 
